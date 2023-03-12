@@ -1,0 +1,18 @@
+header {
+    background-color: blue;
+    color: rgb(172, 193, 199);
+}
+    body {
+        background-color: aquamarine ;
+    }
+
+    .nav-menu{
+background-color: blueviolet;
+color: white;
+padding: 5px 10px;
+
+    }
+
+    .nav-menu:hover{
+        background-color: violet;
+    }
